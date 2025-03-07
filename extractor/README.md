@@ -18,9 +18,6 @@ A simple Python script that converts a PDF file into a series of images, with bu
   - Supports specifying the DPI (Dots Per Inch) for the conversion.
   - Allows the choice of image format (default is PNG).
 
-- **Logging:**  
-  - Provides informative logging to trace execution and troubleshoot errors.
-
 ---
 
 ## Requirements
