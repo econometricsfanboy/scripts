@@ -22,7 +22,7 @@ A simple Python script that converts a PDF file into a series of images, with bu
 
 ## Requirements
 
-- **Python 3.x**
+- **Python 3.x** (probably - wrote this in 3.11)
 - **pdf2image:** Install via:
   ```bash
   pip install pdf2image
